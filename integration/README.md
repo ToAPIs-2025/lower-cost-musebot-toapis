@@ -4,7 +4,7 @@ This is an independent API asset example and integration contract. It is not an 
 
 Pinned upstream SHA: 0bc5074455366f98c61e730e78d6dfec83a8f8c5
 
-- [llm/openai.go](https://github.com/yincongcyincong/MuseBot/blob/0bc5074455366f98c61e730e78d6dfec83a8f8c5/llm/openai.go)
+- [conf/photo_conf.go](https://github.com/yincongcyincong/MuseBot/blob/0bc5074455366f98c61e730e78d6dfec83a8f8c5/conf/photo_conf.go)
 - [conf/video_conf.go](https://github.com/yincongcyincong/MuseBot/blob/0bc5074455366f98c61e730e78d6dfec83a8f8c5/conf/video_conf.go)
 
 Images: authenticate with Bearer, submit once and persist the id, poll the image generations/{id} route, and download result.data[0].url. Resolution fields differ by model; changing Base URL alone is insufficient.

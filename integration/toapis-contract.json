@@ -93,7 +93,8 @@
   "upstream": "yincongcyincong/MuseBot",
   "upstream_sha": "0bc5074455366f98c61e730e78d6dfec83a8f8c5",
   "upstream_modules": [
-    "llm/openai.go",
+    "conf/photo_conf.go",
+    "utils/llm.go",
     "conf/video_conf.go"
   ],
   "format_note": "ToAPIs integration manifest for maintainers; not an upstream-importable settings format unless separately validated"

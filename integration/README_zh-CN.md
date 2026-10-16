@@ -4,7 +4,7 @@
 
 上游固定SHA：0bc5074455366f98c61e730e78d6dfec83a8f8c5
 
-- [llm/openai.go](https://github.com/yincongcyincong/MuseBot/blob/0bc5074455366f98c61e730e78d6dfec83a8f8c5/llm/openai.go)
+- [conf/photo_conf.go](https://github.com/yincongcyincong/MuseBot/blob/0bc5074455366f98c61e730e78d6dfec83a8f8c5/conf/photo_conf.go)
 - [conf/video_conf.go](https://github.com/yincongcyincong/MuseBot/blob/0bc5074455366f98c61e730e78d6dfec83a8f8c5/conf/video_conf.go)
 
 图片：Bearer鉴权，提交一次并保存id，轮询对应图片generations/{id}，从result.data[0].url下载。不同模型的resolution在顶层或metadata内，不能只改Base URL。
