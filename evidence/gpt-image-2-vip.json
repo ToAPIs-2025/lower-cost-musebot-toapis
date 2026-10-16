@@ -1,0 +1,27 @@
+{
+  "task_id": "tsk_img_01M5184482J4DZF2AX1HF84AMA",
+  "model": "gpt-image-2-vip",
+  "quote_usd": 0.0019,
+  "actual_charge_usd": null,
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "PNG",
+  "billing": null,
+  "request": {
+    "model": "gpt-image-2-vip",
+    "prompt": "Original friendly small delivery robot with a cream shell, round amber eyes and a teal parcel compartment on a quiet cobblestone street at sunset, charming 3D animation still, no text, no logos, square composition.",
+    "n": 1,
+    "size": "1:1",
+    "resolution": "1K",
+    "quality": "low"
+  },
+  "original_output": "examples/gpt-image-2-vip.original.png",
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "Original friendly small delivery robot with a cream shell, round amber eyes and a teal parcel compartment on a quiet cobblestone street at sunset, charming 3D animation still, no text, no logos, square composition.",
+  "output": "examples/gpt-image-2-vip.png",
+  "sha256": "fd1d73b0b68438b9243509c747b5e6ab64d50303093a3a46023e124886dd0b3c",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet"
+}

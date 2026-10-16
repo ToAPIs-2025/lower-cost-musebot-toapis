@@ -1,0 +1,9 @@
+{
+  "kind": "image",
+  "model": "gpt-image-2-vip",
+  "prompt": "Original friendly small delivery robot with a cream shell, round amber eyes and a teal parcel compartment on a quiet cobblestone street at sunset, charming 3D animation still, no text, no logos, square composition.",
+  "size": "1024x1024",
+  "run_id": "1016-mb-0",
+  "output": "examples/gpt-image-2-vip.png",
+  "evidence": "evidence/gpt-image-2-vip.json"
+}

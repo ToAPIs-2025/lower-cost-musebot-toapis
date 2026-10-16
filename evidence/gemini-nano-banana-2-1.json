@@ -1,0 +1,28 @@
+{
+  "task_id": "tsk_img_01M5182V4PCB8STY0DR35PZ9HF",
+  "model": "gemini-nano-banana-2.1",
+  "quote_usd": 0.015,
+  "actual_charge_usd": null,
+  "actual_dimensions": [
+    1024,
+    1024
+  ],
+  "original_format": "JPEG",
+  "billing": null,
+  "request": {
+    "model": "gemini-nano-banana-2.1",
+    "prompt": "Original friendly small delivery robot with a cream shell, round amber eyes and a teal parcel compartment on a quiet cobblestone street at sunset, charming 3D animation still, no text, no logos, square composition.",
+    "n": 1,
+    "size": "1:1",
+    "metadata": {
+      "resolution": "1K"
+    }
+  },
+  "original_output": "examples/gemini-nano-banana-2-1.original.jpg",
+  "date": "2026-10-16",
+  "status": "completed",
+  "prompt": "Original friendly small delivery robot with a cream shell, round amber eyes and a teal parcel compartment on a quiet cobblestone street at sunset, charming 3D animation still, no text, no logos, square composition.",
+  "output": "examples/gemini-nano-banana-2-1.png",
+  "sha256": "e2a9fabfcb05f2ae2e6d01f7db02558f410069b65641f4e40373ff24521132f1",
+  "validation_scope": "Independent API asset adapter example; upstream application UI and native registration not accepted yet"
+}
